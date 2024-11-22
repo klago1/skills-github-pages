@@ -1,9 +1,9 @@
 ---
 title: Welcome to my blog
 ---
-## Sart with a heading
+# Sart with a heading
 
-# smaller heading
+## smaller heading
 
 and some stuff
 
